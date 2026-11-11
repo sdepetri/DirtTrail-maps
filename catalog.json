@@ -11,6 +11,50 @@
       "sha256": "8cb9cd9a26aedc1c6173a6e268326e601ab741c3faf76974bcc2f5801833ae8c",
       "center": [-66.3378, -33.3017],
       "defaultZoom": 8.0
+    },
+    {
+      "id": "mendoza-province",
+      "name": "Mendoza · Provincia",
+      "url": "https://github.com/sdepetri/DirtTrail-maps/releases/download/maps-2026-11-11/mendoza.pmtiles",
+      "fileName": "mendoza.pmtiles",
+      "format": "pmtiles",
+      "sizeBytes": 83170951,
+      "sha256": "2a2e9b1c9472997e3a5f47ce27c4767dcbbce85fe77a75c07ed211b4394038d0",
+      "center": [-68.530764, -34.787257],
+      "defaultZoom": 7.0
+    },
+    {
+      "id": "cordoba-province",
+      "name": "Córdoba · Provincia",
+      "url": "https://github.com/sdepetri/DirtTrail-maps/releases/download/maps-2026-11-11/cordoba.pmtiles",
+      "fileName": "cordoba.pmtiles",
+      "format": "pmtiles",
+      "sizeBytes": 130774978,
+      "sha256": "510528a2f248f32f0b684815921d08a301b4a808c1dbfea7e32a9f32b68dd50b",
+      "center": [-63.771461, -32.257984],
+      "defaultZoom": 7.0
+    },
+    {
+      "id": "san-juan-province",
+      "name": "San Juan · Provincia",
+      "url": "https://github.com/sdepetri/DirtTrail-maps/releases/download/maps-2026-11-11/san-juan.pmtiles",
+      "fileName": "san-juan.pmtiles",
+      "format": "pmtiles",
+      "sizeBytes": 50138032,
+      "sha256": "2d317d383027999ca79f3badab548d7be4e19a0f1b98291de6c8db2c7b49a9e5",
+      "center": [-68.615476, -30.507692],
+      "defaultZoom": 7.0
+    },
+    {
+      "id": "la-rioja-province",
+      "name": "La Rioja · Provincia",
+      "url": "https://github.com/sdepetri/DirtTrail-maps/releases/download/maps-2026-11-11/la-rioja.pmtiles",
+      "fileName": "la-rioja.pmtiles",
+      "format": "pmtiles",
+      "sizeBytes": 54829098,
+      "sha256": "ddf4cd9060764d7a4f4aa714619026c04897fe8edd327c4b2c7d2eca8df3de27",
+      "center": [-67.529035, -29.854000],
+      "defaultZoom": 7.0
     }
   ]
 }

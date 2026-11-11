@@ -9,6 +9,10 @@ the app.
 | Region | Format | Zoom | Approx. size |
 |---|---|---:|---:|
 | San Luis, Argentina | PMTiles v3 / MVT | 0–15 | 44 MB |
+| Mendoza, Argentina | PMTiles v3 / MVT | 0–15 | 80 MB |
+| Córdoba, Argentina | PMTiles v3 / MVT | 0–15 | 125 MB |
+| San Juan, Argentina | PMTiles v3 / MVT | 0–15 | 48 MB |
+| La Rioja, Argentina | PMTiles v3 / MVT | 0–15 | 53 MB |
 
 ## Data and attribution
 
