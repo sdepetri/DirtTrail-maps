@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "san-luis-sierras",
+      "name": "San Luis · Provincia",
+      "url": "https://github.com/sdepetri/DirtTrail-maps/releases/download/maps-2026-11-11/san-luis.pmtiles",
+      "fileName": "san-luis.pmtiles",
+      "format": "pmtiles",
+      "sizeBytes": 45759633,
+      "sha256": "8cb9cd9a26aedc1c6173a6e268326e601ab741c3faf76974bcc2f5801833ae8c",
+      "center": [-66.3378, -33.3017],
+      "defaultZoom": 8.0
+    }
+  ]
+}
